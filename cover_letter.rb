@@ -3,14 +3,12 @@ def cover_letter(company_name, links = false)
 I follow this resource, in charting out my career path and I believe it to be an invaluable read for anyone who is in tech field. Some of the highlights of this article I would like to point out and I believe that would give you my motivation why I would like to join company_name and how I could make a positive impact as a member of the technical team.
 I believe my past experience and skill sets would be an appropriate addition to your technical team.
 
-As a ruby developer working for Sephora for more than two years I have had experience in handling important features. Some of them I would like list here are.
-1. sephora.sg/carts page, functionality for sticky cart, and also samples UI, adding of samples from cart page.
-2. sephora.sg/quick_view for the whole site.
-3. Revamp of sephora.sg/orders/new, :edit, /show, order/complete, order failed.
-4. visa checkout wallet.
-5. API for mobile apps
-6. Integrating and automating load test
-7. Handling the launch of our webapp for Australia and New Zealand market, which involved revamping of the UI of the whole application.
+As a Senior Backend developer and later on as a Tech Lead working for Mercedes Benz for more than two years I have had experience in handling important features. Some of them I would like list here are.
+1. Shell Precommit Integration
+2. Ryd API V4 Integration
+3. Building of the customer support platform
+5. Launching of our App in various other markets such as Switzerland, Austria, Belgium and Netherlands
+6. Mentoring junior team members
 
 Some of the highlights of the above article that I have shared, which makes me want to start my career at company_name.
 
